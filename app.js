@@ -1,0 +1,1 @@
+var wiseQuiz = angular.module("wiseQuiz",["ngRoute"]);
